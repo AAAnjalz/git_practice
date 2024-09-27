@@ -8,5 +8,6 @@ public class Hello{
         int age = scnr.nextInt();
         System.out.println(age);
         System.out.println("Last for the day");
+        System.out.println("Actually this is the last lol");
     }
 }
